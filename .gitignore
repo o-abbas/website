@@ -1,2 +1,7 @@
-node_modules/*
-!node_modules/bla.txt
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
