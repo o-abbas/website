@@ -19,7 +19,7 @@
         "postupdate-deps": "bower update",
 
         "prestart": "npm install",
-        "start": "node node_modules/http-server/bin/http-server ./app"
+        "start": "node node_modules/http-server/bin/http-server"
 
     }
 }
