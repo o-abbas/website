@@ -13,7 +13,7 @@
         "angular-route": "1.6.6"
     },
     "scripts": {
-        "postinstall": "bower install",
+    
 
         "update-deps": "npm update",
         "postupdate-deps": "bower update",
