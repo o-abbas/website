@@ -23,6 +23,7 @@ display: inline;
 
 h1, h2, h3, h4, h5, h6, .text-heading {
   font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #2C662A;
 }
 
 h1 {
@@ -43,11 +44,13 @@ img {
 .index-title{
   margin-bottom: 6px!important;
   margin-top: 16px!important;
+  font-size: 18pt;
+  color: #2C662A;
 }
 .main-image{
   margin-bottom:20px!important;
   display: block;
-    margin: 0 auto;
+  margin: 0 auto;
 }
 .tagline-upper {
   font-size: 5rem;
